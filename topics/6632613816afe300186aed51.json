@@ -1,0 +1,112 @@
+[
+    {
+        "_id": "6650cc6a3aa9e664a65386a8",
+        "name": "Study Module || (Only Pdf)",
+        "type": "BATCH_SCHEDULE_VIDEO",
+        "typeId": "6632613816afe300186aed51",
+        "displayOrder": 3,
+        "notes": 2,
+        "exercises": 0,
+        "videos": 0,
+        "slug": "study-module-||--only-pdf--838025"
+    },
+    {
+        "_id": "66329170fd5c0c6f4493e399",
+        "name": "Mind Maps || (Only PDF)",
+        "type": "BATCH_SCHEDULE_VIDEO",
+        "typeId": "6632613816afe300186aed51",
+        "displayOrder": 11,
+        "notes": 16,
+        "exercises": 0,
+        "videos": 0,
+        "slug": "mind-maps-||--only-pdf--174338"
+    },
+    {
+        "_id": "66329190490a5bff4fdd06b8",
+        "name": "Short Notes || (Only PDF)",
+        "type": "BATCH_SCHEDULE_VIDEO",
+        "typeId": "6632613816afe300186aed51",
+        "displayOrder": 13,
+        "notes": 16,
+        "exercises": 0,
+        "videos": 0,
+        "slug": "short-notes-||--only-pdf--845033"
+    },
+    {
+        "_id": "664f07119623cd16f3848908",
+        "name": "Handwritten Notes || (Only Pdf)",
+        "type": "BATCH_SCHEDULE_VIDEO",
+        "typeId": "6632613816afe300186aed51",
+        "displayOrder": 15,
+        "notes": 11,
+        "exercises": 0,
+        "videos": 0,
+        "slug": "handwritten-notes-||--only-pdf--925084"
+    },
+    {
+        "_id": "6655aceaee06065e98c16142",
+        "name": "NCERT Booster || (Only PDF)",
+        "type": "BATCH_SCHEDULE_VIDEO",
+        "typeId": "6632613816afe300186aed51",
+        "displayOrder": 15,
+        "notes": 4,
+        "exercises": 0,
+        "videos": 0,
+        "slug": "ncert-booster-||--only-pdf--911289"
+    },
+    {
+        "_id": "664f29313a63b2b6aa6c04af",
+        "name": "Revision",
+        "type": "BATCH_SCHEDULE_VIDEO",
+        "typeId": "6632613816afe300186aed51",
+        "displayOrder": 16,
+        "notes": 0,
+        "exercises": 0,
+        "videos": 9,
+        "slug": "revision-706715"
+    },
+    {
+        "_id": "663291b76fafb59d28269550",
+        "name": "PYQ's Sheet || (Only PDF)",
+        "type": "BATCH_SCHEDULE_VIDEO",
+        "typeId": "6632613816afe300186aed51",
+        "displayOrder": 18,
+        "notes": 7,
+        "exercises": 0,
+        "videos": 0,
+        "slug": "pyq-s-sheet-||--only-pdf--692018"
+    },
+    {
+        "_id": "6667023914bc592853e2071d",
+        "name": "Practice Questions || (Only Pdf)",
+        "type": "BATCH_SCHEDULE_VIDEO",
+        "typeId": "6632613816afe300186aed51",
+        "displayOrder": 18,
+        "notes": 1,
+        "exercises": 0,
+        "videos": 0,
+        "slug": "practice-questions-||--only-pdf--949621"
+    },
+    {
+        "_id": "664dcfb61e502b6b53af01d1",
+        "name": "Ch-01 : Cell - The Unit of Life",
+        "type": "BATCH_SCHEDULE_VIDEO",
+        "typeId": "6632613816afe300186aed51",
+        "displayOrder": 19,
+        "notes": 33,
+        "exercises": 11,
+        "videos": 22,
+        "slug": "ch-01---cell---the-unit-of-life-621142"
+    },
+    {
+        "_id": "6669a572313a353ba52985e2",
+        "name": "Ch-02 : Cell Cycle and Cell Division",
+        "type": "BATCH_SCHEDULE_VIDEO",
+        "typeId": "6632613816afe300186aed51",
+        "displayOrder": 32,
+        "notes": 1,
+        "exercises": 0,
+        "videos": 1,
+        "slug": "ch-02---cell-cycle-and-cell-division-543715"
+    }
+]
