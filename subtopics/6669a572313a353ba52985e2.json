@@ -1,0 +1,89 @@
+{
+    "videos": [
+        {
+            "_id": "6669a551fcb9250018847d28",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "632d7797f92303001169af7e"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "6669a572313a353ba52985e2",
+                    "name": "Ch-02 : Cell Cycle and Cell Division"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Cell Cycle and Cell Division 01 : Cell Cycle || (NO DPP)",
+            "date": "2024-06-13T00:00:00.000Z",
+            "startTime": "2024-06-13T07:45:14.000Z",
+            "endTime": "2024-06-13T09:42:21.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "6669a551b12f0c7266f21a54",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/98e220ad-651b-4b1b-bbd2-be43be2a891b\/master.mpd",
+            "videoDetails": {
+                "_id": "666ac83cb2362700189adf93",
+                "id": "666ac83cb2362700189adf93",
+                "name": "Cell Cycle and Cell Division 01 : Cell Cycle || (NO DPP)",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/2eaf34b1-9235-4972-a6fc-d19e3b16025a.jpg",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/98e220ad-651b-4b1b-bbd2-be43be2a891b\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "01:56:48",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-06-13T10:21:48.093Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65ddbfb06b749ba95c0e4f07",
+            "isBatchDoubtEnabled": true
+        }
+    ],
+    "notes": [
+        {
+            "_id": "6669a551fcb9250018847d28",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-06-13T00:00:00.000Z",
+            "startTime": "2024-06-13T07:45:14.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "666ac1449fb6000e5ecaba7a",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Cell Cycle and Cell Division 01 : Class Notes || Yakeen NEET 2.0 2025 (Legend)",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "666ac142df87780018f78908",
+                            "name": "Cell Cycle and Cell Division 01  Class Notes.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/b7c40ece-2adf-4c3f-aa85-7e46d7a43fea.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "6632613816afe300186aed51"
+                }
+            ],
+            "dRoomId": "65ddbfb06b749ba95c0e4f07",
+            "isBatchDoubtEnabled": true
+        }
+    ],
+    "DppNotes": [],
+    "DppVideos": [],
+    "exercises": []
+}
